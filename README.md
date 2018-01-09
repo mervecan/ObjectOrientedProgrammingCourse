@@ -1,2 +1,2 @@
 # ObjectOrientedProgrammingCourse
-This assignments are prepared for Object Oriented Programming Course
+These assignments are prepared for Object Oriented Programming Course
